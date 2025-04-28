@@ -1,0 +1,23 @@
+cmd.exe
+/X
+/C
+""C:\Program Files\Java\jdk-17\bin\javadoc.exe" @options @packages"
+C:\Users\paurv\Documents\DAW\DaW\UT6\DAW-java-app\llibreria_web\target\site\apidocs\allclasses-index.html = 1745855657784
+C:\Users\paurv\Documents\DAW\DaW\UT6\DAW-java-app\llibreria_web\target\site\apidocs\allpackages-index.html = 1745855657791
+C:\Users\paurv\Documents\DAW\DaW\UT6\DAW-java-app\llibreria_web\target\site\apidocs\element-list = 1745855657619
+C:\Users\paurv\Documents\DAW\DaW\UT6\DAW-java-app\llibreria_web\target\site\apidocs\help-doc.html = 1745855657839
+C:\Users\paurv\Documents\DAW\DaW\UT6\DAW-java-app\llibreria_web\target\site\apidocs\index-all.html = 1745855657827
+C:\Users\paurv\Documents\DAW\DaW\UT6\DAW-java-app\llibreria_web\target\site\apidocs\index.html = 1745855657831
+C:\Users\paurv\Documents\DAW\DaW\UT6\DAW-java-app\llibreria_web\target\site\apidocs\jquery-ui.overrides.css = 1745855657880
+C:\Users\paurv\Documents\DAW\DaW\UT6\DAW-java-app\llibreria_web\target\site\apidocs\member-search-index.js = 1745855657800
+C:\Users\paurv\Documents\DAW\DaW\UT6\DAW-java-app\llibreria_web\target\site\apidocs\module-search-index.js = 1745855657793
+C:\Users\paurv\Documents\DAW\DaW\UT6\DAW-java-app\llibreria_web\target\site\apidocs\options = 1745855656149
+C:\Users\paurv\Documents\DAW\DaW\UT6\DAW-java-app\llibreria_web\target\site\apidocs\overview-tree.html = 1745855657723
+C:\Users\paurv\Documents\DAW\DaW\UT6\DAW-java-app\llibreria_web\target\site\apidocs\package-search-index.js = 1745855657796
+C:\Users\paurv\Documents\DAW\DaW\UT6\DAW-java-app\llibreria_web\target\site\apidocs\packages = 1745855656150
+C:\Users\paurv\Documents\DAW\DaW\UT6\DAW-java-app\llibreria_web\target\site\apidocs\script.js = 1745855657848
+C:\Users\paurv\Documents\DAW\DaW\UT6\DAW-java-app\llibreria_web\target\site\apidocs\search.js = 1745855657852
+C:\Users\paurv\Documents\DAW\DaW\UT6\DAW-java-app\llibreria_web\target\site\apidocs\serialized-form.html = 1745855657663
+C:\Users\paurv\Documents\DAW\DaW\UT6\DAW-java-app\llibreria_web\target\site\apidocs\stylesheet.css = 1745855657844
+C:\Users\paurv\Documents\DAW\DaW\UT6\DAW-java-app\llibreria_web\target\site\apidocs\tag-search-index.js = 1745855657804
+C:\Users\paurv\Documents\DAW\DaW\UT6\DAW-java-app\llibreria_web\target\site\apidocs\type-search-index.js = 1745855657798

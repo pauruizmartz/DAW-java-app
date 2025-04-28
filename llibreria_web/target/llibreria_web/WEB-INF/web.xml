@@ -1,0 +1,60 @@
+<web-app xmlns="http://java.sun.com/xml/ns/javaee"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://java.sun.com/xml/ns/javaee
+                             http://java.sun.com/xml/ns/javaee/web-app_4_0.xsd" version="4.0">
+
+    <display-name>llibreria_web</display-name>
+
+    <welcome-file-list>
+        <welcome-file>llibreria.jsp</welcome-file>
+    </welcome-file-list>
+
+    <servlet>
+        <servlet-name>HelloServlet</servlet-name>
+        <servlet-class>com.llibreria.web.HelloServlet</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>HelloServlet</servlet-name>
+        <url-pattern>/hello</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>Consulta</servlet-name>
+        <servlet-class>com.llibreria.web.Consulta</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>Consulta</servlet-name>
+        <url-pattern>/consulta</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>Crear</servlet-name>
+        <servlet-class>com.llibreria.web.Crear</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>Crear</servlet-name>
+        <url-pattern>/crear</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>Editar</servlet-name>
+        <servlet-class>com.llibreria.web.Editar</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>Editar</servlet-name>
+        <url-pattern>/editar</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>Eliminar</servlet-name>
+        <servlet-class>com.llibreria.web.Eliminar</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>Eliminar</servlet-name>
+        <url-pattern>/eliminar</url-pattern>
+    </servlet-mapping>
+</web-app>
